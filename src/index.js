@@ -1,1 +1,3 @@
-console.log("test")
+var test = "test stse"
+
+console.log(test)
