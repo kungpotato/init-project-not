@@ -1,3 +1,4 @@
 {
-  "presets": ["@babel/preset-env"]
+    "extends": "eslint:recommended",
+    "presets": ["@babel/preset-env"]
 }

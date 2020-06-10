@@ -1,3 +1,3 @@
-var test = "test stse"
+var test = 'test stse'
 
 console.log(test)
